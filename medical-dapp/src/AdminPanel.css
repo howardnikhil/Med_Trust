@@ -1,0 +1,65 @@
+.admin-panel {
+    background: linear-gradient(135deg, #1e1e2f, #2a2a4a);
+    min-height: 100vh;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    color: #00d4ff;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #ff007a;
+    margin: 20px 0 10px;
+  }
+  
+  h3 {
+    color: #00d4ff;
+    margin-top: 15px;
+  }
+  
+  section {
+    max-width: 700px;
+    margin: 20px auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  input, select, textarea {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #3a3a5a;
+    color: #fff;
+    transition: all 0.3s ease;
+  }
+  
+  input:hover, select:hover, textarea:hover {
+    background: linear-gradient(90deg, #00d4ff, #3a3a5a);
+  }
+  
+  textarea {
+    min-height: 80px;
+  }
+  
+  button {
+    padding: 12px;
+    background: #00d4ff;
+    border: none;
+    border-radius: 5px;
+    color: #1e1e2f;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background: #ff007a;
+  }
