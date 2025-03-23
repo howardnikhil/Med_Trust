@@ -1,6 +1,6 @@
 The Deployed/Verified Contract Address on BNB Testnet
 
-0x79441Ba08c1e6763351984df7fd707a868333f22
+0xE4cA27ED8e918fa168b711419F78DBa3abA0075e
 
 Team: Byte Squad
 Members;
