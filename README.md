@@ -5,8 +5,6 @@ The Deployed/Verified Contract Address on BNB Testnet
 Team: Byte Squad
 Members;
 1. Howard Nikhil J
-2. Jayamanikandan A R
-3. Logeshwaran V
-4. Akash K
+
 
 Theme: Healthcare 
